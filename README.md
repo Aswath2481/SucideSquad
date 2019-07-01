@@ -5,24 +5,22 @@ Niche anti-ransomware program, It contains the ransomware during the attack and 
 3. Setup Creater: Inno Setup Creator (.iss files)
 
 
-#To protect a folder select right-click-->(Protect this folder) option
+## To protect a folder select right-click-->(Protect this folder) option
 
-#Note:
->It is not a Anti-Virus or a permanent solution to Ransomeware.
->It delays the attack of particular type of ransomewares by trying to contain the attack within itself
->In case of attack, the Engine will start the taskmanager automatically and its the duty of user to find and stop the ransomware process
+## Note:
+> It is not a Anti-Virus or a permanent solution to Ransomeware.
+> It delays the attack of particular type of ransomewares by trying to contain the attack within itself
+> In case of attack, the Engine will start the taskmanager automatically and its the duty of user to find and stop the ransomware process
 
 
-#**After an attack restart the Engine
+# **After an attack restart the Engine
 
-1. * *for starting or restarting the Scan_Engine
-Run-->e_start
+1. for starting or restarting the Scan_Engine
+  Run-->e_start
 
-2. * *for stoping the Scan_Engine 
-Run-->e_stop
+2. for stoping the Scan_Engine 
+  Run-->e_stop
 
-#Restart the engine once you finished selecting the folder to protect
-
-!!All the best!!
+## Restart the engine once you finished selecting the folder to protect
 
 Special thanks to Selva Logesh for helping me to finish the development!!!
